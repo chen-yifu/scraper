@@ -1,0 +1,18 @@
+Content-Language: en
+Content-Encoding: gzip
+Set-Cookie: ssr-caching="cache,desc=miss,varnish=miss, dc,desc=96";Version=1;Expires=Thu, 02-Jan-2020 21:40:15 GMT;Max-Age=20
+Set-Cookie: hs=362695958; Path=/; Domain=www.yifu-chen.com; HTTPOnly
+Set-Cookie: svSession=a43cf464f62f9074812ecc922bda97c546ab688100937249ef10243ddb97a1a8b18e3584095c8144b1ce345c68a768911e60994d53964e647acf431e4f798bcdd666661efd0e788fd4501065ebc38a8d1762ae5715414ba01eb1c4eeabced285; Max-Age=63158400; Expires=Sun, 2 Jan 2022 21:39:55 GMT; Path=/; Domain=www.yifu-chen.com
+Set-Cookie: XSRF-TOKEN=1578001195|fvwEJJV3wjmG; Path=/; Domain=www.yifu-chen.com
+Set-Cookie: TS01e85bed=01b84e286a23ef6dcfb947512992859f9cd7bb33b5c6c779241ad2bc38f01f07560f217963f17ca2b23f31365dc20daa6f4602b8c9aa30d12d6a5365b38abaf3a959ffbdb0; Path=/
+Set-Cookie: TS01eb0e24=01b84e286a6b61d1e73407274edd31ccb85c90dee5c6c779241ad2bc38f01f07560f217963ade9cb13adb7633c02948122403dceba76a6ea525577ef9665e0a892e71bad5c58da302eea54693f8c7a22ab955502efe27a0ed0906525f15f67c78053fde6ce; path=/; domain=www.yifu-chen.com
+Age: 0
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-Wix-Request-Id: 1578001195.506106703090393123848
+Server-Timing: cache;desc=miss, varnish;desc=miss, dc;desc=96
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin,<https://fonts.gstatic.com>; rel=preconnect; crossorigin,<https://static.wixstatic.com/>; rel=preconnect;,<https://static.parastorage.com/unpkg/requirejs-bolt@2.3.6/requirejs.min.js>; rel=preload; as=script;,<https://static.parastorage.com/unpkg/lodash@4.17.15/lodash.min.js>; rel=preload; as=script ; crossorigin=anonymous;,<https://static.parastorage.com/unpkg/zepto@1.2.0/dist/zepto.min.js>; rel=preload; as=script ; crossorigin=anonymous;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/services/wix-bolt/1.4653.0/bolt-main/app/main-r.min.js>; rel=preload; as=script ; crossorigin=anonymous;
+Pragma: no-cache
+Cache-Control: no-cache, no-store, no-cache
+Date: Thu, 02 Jan 2020 21:39:55 GMT
+X-Seen-By: 6ivkWfREES4Y8b2pOpzk7CWfEJXUOf1J0Ah0dFlolkk=,sHU62EDOGnH2FBkJkG/Wx8EeXWsWdHrhlvbxtlynkVgBpJwWrxBl3XR4ktIMcpPn,2d58ifebGbosy5xc+FRaloPX4ngKfQM8fEHbwELHijm2oIrr3q+QGAgWclRqXPeX,Nlv1KFVtIvAfa3AK9dRsI9VZJ2Vqi4NQUW3aHBgMj+w=,2UNV7KOq4oGjA5+PKsX47M+9GT3zL4DALnVv96odpTs=,m0j2EEknGIVUW/liY8BLLjb6aQqIZiOxaO7l/B5ZXss=,1wy2ILu/S4rlWT/R4rqCrU2ZbbUsEscsfHhvoWwiikM=,nxVDKlf5lZ8xGkFSmm2J1gTHoTKTexBaMn9Qt1VIR3GNCX0uwemDJF9BCt7BmM8SVnd8Z4jLK9R467MyhrzM6w==,I2ZOrNA1LIowGTY6Ll7mx2kMSM9osWg3vCAMLjy3iII=,1wy2ILu/S4rlWT/R4rqCrZx9aIJQOppmlHOp1u9oQgw=,Tw2AanFDQ+Wwo8Xxk6ZL7vOBx+hvh2Cbd7MMNUXzbHGqvfb76yIQKxHB6T9fuxf0wzwQ9tf2R4R9LzqWG8tuPFiB5QmpRe2J37zq9nDD6cs=,I2ZOrNA1LIowGTY6Ll7mx9k14celzk2KxPugssqP0dE=,1wy2ILu/S4rlWT/R4rqCree4NYzB/N4GyI/fZ3I+AyI=,CU5GbgCT5nWPaA3tUS4mLDupeFkqlVOMXaHquaK7kmvgpCO3gAy3rwoJoOG9bpSyFrEMpwiiUoygD7WiM5UCHw==
+Content-Type: text/html;charset=utf-8
